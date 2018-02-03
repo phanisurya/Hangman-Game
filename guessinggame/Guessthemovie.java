@@ -13,8 +13,7 @@ public class Guessthemovie {
 		game.hiding(result.size(),result);
 		
 		
-		//for(int j=0;j<result.length;j++)
-			//System.out.println(result[j]);
+		
 		
 		
 	}
